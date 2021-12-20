@@ -1,6 +1,10 @@
 # processing-text
 An overview of processing text
 
+
+![IMG_07E48EAC62FD-1](https://user-images.githubusercontent.com/58792/146846349-c92329aa-4369-422c-a649-e572bc4ef492.jpeg)
+
+
 ## Using grep, cut, sort and unique
 
 Exploratory data analysis with the CLI
