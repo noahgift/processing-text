@@ -1,0 +1,5 @@
+cherry
+pear
+strawberry
+apple
+apple

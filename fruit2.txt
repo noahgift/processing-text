@@ -1,0 +1,4 @@
+      1 cherry
+      1 pear
+      1 strawberry
+      2 apple
